@@ -1,0 +1,267 @@
+
+.login-box{
+	color:white;
+	
+}
+label {
+    display: inline-block;
+    font-weight: 700;
+    margin-bottom: .5rem;
+}
+.radio {
+    margin-left: 30px;
+    margin-right: 13px;
+}
+select#from {
+    margin-left: 20px;
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+   <!------- background-color: transparent;----->
+    -webkit-text-decoration-skip: objects;
+}
+input[type="text"] {
+    margin-left: 2pc;
+}
+label.gender {
+    margin-right: 30px;
+    margin-left: 0px;
+}
+label.option {
+    margin-left: -50px;
+    margin-right: 12px;
+}
+.b1 {
+    margin-left: 60px;
+    margin-right: -105px;
+}
+h1 {
+    text-align: center;
+    border-bottom: 5px solid white;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 20px;
+    font-weight: 300;
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+button.btn.btn-info.btn-sm {
+    background-color: aliceblue;
+}
+button.btn.btn-info.btn-sm {
+    background-color: navy;
+    border-radius: 15px;
+    padding: 7px;
+}
+.all{
+	background-image:url("back.avif");
+	background-size:cover;
+	width:100%;
+	background-position:center;
+	margin-bottom:30px;
+	background-repeat:no-repeat;
+	padding-bottom:20px;
+	color:white;
+}
+.data {
+    text-align: center;
+    padding: 10px;
+}
+body{
+background-image:linear-gradient(115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7)),url("survey-form-background.jpeg");
+background-position:center;
+background-size:cover;
+background-attachment:fixed;
+
+}
+.header{
+	text-align:center;
+	color:white;
+	font-family:poppins,sans-serif;
+}
+.header h2{
+	font-size:2em;
+	font-family:'poppins',sans-serif;
+	font-weight:400;
+	margin-bottom:-10px;
+}
+.header h3{
+	font-size:18px;
+	font-family:italic;
+	margin-bottom:40px;
+}
+form{
+	margin:0px auto;
+	width:60%;
+	padding:3%;
+	 background-color:rgba(27, 27, 50, 0.8);
+	 border-radius:0.25rem;
+	 color:white;
+	
+}
+.label{
+	align-items:center;
+	margin-bottom:o.5rem;
+	font-family: 'poppins';
+    font-size: 22px;
+    padding: 10px 0px;
+	margin-bottom:10px;
+}
+input[type='text'] {
+    width: 98%;
+    padding: 5px;
+    border-radius: 6px;
+	margin-top:10px;
+	font-size:18px;
+}
+
+#currentrole {
+    width: 100%;
+    padding: 5px;
+    border-radius: 6px;
+	font-family:poppins;
+	font-size:18px;
+	color:gray;
+	margin-top:10px;
+}
+#end {
+	width:100%;
+	padding:5px;
+	border-radius:6px;
+	font-family:poppins;
+	font-size:18px;
+	color:gray;
+	margin-top:10px;
+}
+#options {
+	width:100%;
+	padding:5px;
+	border-radius:6px;
+	font-family:poppins;
+	font-size:18px;
+	color:gray;
+	margin-top:10px;
+}
+.radio{
+    margin-right: 0.625rem;
+    min-height: 1.25rem;
+    min-width: 1.25rem;
+	padding:5px;
+	font-family:poppins;
+	font-size:22px;
+    margin-top:10px;
+}
+input[type='submit']{
+	width:100%;
+	background:#37AF65;
+	padding:5px;
+	text-align:center;
+	color:white;
+	font-family:poppins;
+	font-size:20px;
+	margin-top:10px;
+}
+.style{
+	margin-bottom:20px;
+}
+.book{
+	text-align:center;
+}
+label.label {
+    margin-right: 570px;
+    margin-bottom: -20px;
+}
+.style {
+    margin-bottom: -12px;
+}
+.result {
+    margin-top: 50px;
+    text-align: initial;
+}
+span.error {
+    margin-left: 730px;
+    margin-top: -22px;
+}
+select#from {
+    width: 99%;
+    padding: 5px;
+    margin-top: 14px;
+    margin-left: 31px;
+    width: 98%;
+    padding: 5px;
+    text-align: center;
+    color: black;
+    font-family: poppins;
+    font-size: 20px;
+    margin-top: 10px;
+}
+select#froms {
+    width: 99%;
+    padding: 5px;
+    margin-top: 14px;
+    margin-left: 31px;
+    width: 98%;
+    padding: 5px;
+    text-align: center;
+    color: black;
+    font-family: poppins;
+    font-size: 20px;
+    margin-top: 10px;
+}
+form {
+    margin: 0px auto;
+    width: 60%;
+    padding: 3%;
+    background-color: rgba(27, 27, 50, 0.8);
+    border-radius: 0.25rem;
+    color: white;
+    padding-right: 4%;
+	    margin-left: 340px;
+}
+.radio {
+    margin-right: 0.625rem;
+    min-height: 1.25rem;
+    min-width: 1.25rem;
+    padding: 5px;
+    font-family: poppins;
+    font-size: 22px;
+    /* margin-top: 10px; */
+    text-align: start;
+    margin-left: 90px;
+    margin-bottom: -15px;
+    margin-top: -23px;
+}
+.book {
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+input[type='submit'] {
+    width: 98%;
+    background: #37AF65;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-family: poppins;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 30px;
+
+}
+input[type="radio"] {
+    margin-left: 10px;
+    margin-right: 1pc;
+}
+.card-body {
+padding: 35px !important;
+    
+    width: 50%!important;
+    margin: 0px auto!important;
+    border: 1px solid #979797!important;
+    border-radius: 20px!important;
+}
